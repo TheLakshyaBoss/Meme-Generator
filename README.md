@@ -12,3 +12,4 @@ HTML – Structure of the app
 CSS – Styling and layout
 JavaScript – Logic for fetching memes, adding text, and exporting
 
+![Uploading meme (3).png…]()
