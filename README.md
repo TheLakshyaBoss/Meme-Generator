@@ -12,4 +12,4 @@ HTML – Structure of the app
 CSS – Styling and layout
 JavaScript – Logic for fetching memes, adding text, and exporting
 
-![Uploading meme (3).png…]()
+<img width="600" height="400" alt="meme (3)" src="https://github.com/user-attachments/assets/a61db038-c9a8-4766-bb4e-c72b59f7feaa" />
